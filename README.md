@@ -1,2 +1,2 @@
 # Multiplication table
-Multiplication table of given number in java
+Multiplication table of any number input by user in java
